@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nama": "Budi Santoso", "pinjaman": 1000000, "bulanKe": 3, "status": "Lancar" },
+  { "id": 2, "nama": "Siti Rahma", "pinjaman": 500000, "bulanKe": 12, "status": "Lunas" },
+  { "id": 3, "nama": "Andi Wijaya", "pinjaman": 2000000, "bulanKe": 5, "status": "Telat" }
+]
